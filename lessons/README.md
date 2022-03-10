@@ -6,4 +6,4 @@ Typically you would download the data / code files to your local machine (e.g., 
 
 However you can complete the lessons online without the need to install or download anything. Simply click the link below:
 
-### Launch Data Analysis for the Social Sciences - Quantitative Data Analysis as a Binder service: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DiarmuidM/data-analysis-for-the-social-sciences-2021/main?filepath=lessons)
+### Launch Foundations of Quantitative Research Methods - Data Analysis: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DiarmuidM/foundations-of-quantitative-research-methods/main?filepath=lessons)
